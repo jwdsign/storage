@@ -1,20 +1,3 @@
 {
-	"Project": [
-		{
-			"ProjectName": "Testprojekt",
-			"ProjectStage": [
-				{
-					"ProjectStageTitle": "Kickoff",
-					"[ProjectStageStatus]": "Work in progess",
-					"@type": "ProjectStage"
-				},
-				{
-					"ProjectStageTitle": "Review\n",
-					"ProjectStageDesc": "Blabla",
-					"@type": "ProjectStage"
-				}
-			],
-			"@type": "Project"
-		}
-	]
+	"Project": []
 }
