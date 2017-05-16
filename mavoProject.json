@@ -1,22 +1,10 @@
 {
 	"Project": [
 		{
-			"ProjectName": "Mein Projekt\n",
-			"ProjectDescription": "Lorem ipsum dollar.\n",
+			"ProjectName": "Testprojekt",
 			"ProjectStage": [
 				{
-					"ProjectStageTitle": "1. Testen",
-					"ProjectStageDesc": "Lorem Ipsum dollar.",
-					"ProjectStageDeadline": "2014-06-01",
-					"[ProjectStageStatus]": "Work in progess",
-					"ProjectStageStatusWIP": "Work in progess",
-					"ProjectStageStatusHold": "On hold",
-					"ProjectStageStatusDone": "Done",
-					"@type": "ProjectStage"
-				},
-				{
-					"ProjectStageTitle": "2. Mehr testen",
-					"ProjectStageDesc": "Moep",
+					"ProjectStageTitle": "Kickoff",
 					"[ProjectStageStatus]": "Work in progess",
 					"@type": "ProjectStage"
 				}
