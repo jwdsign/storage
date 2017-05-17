@@ -12,6 +12,19 @@
 				}
 			],
 			"@type": "Project"
+		},
+		{
+			"ProjectName": "Neues Projekt",
+			"ProjectDescription": "bla?",
+			"ProjectStage": [
+				{
+					"ProjectStageTitle": "1 Stufe",
+					"ProjectStageDesc": "???",
+					"ProjectStageDeadline": "2019-05-04",
+					"@type": "ProjectStage"
+				}
+			],
+			"@type": "Project"
 		}
 	]
 }
