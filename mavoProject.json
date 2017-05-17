@@ -1,3 +1,17 @@
 {
-	"Project": []
+	"Project": [
+		{
+			"ProjectName": "Mein Projekt",
+			"ProjectDescription": "Lorem Ipsum dollar.",
+			"ProjectStage": [
+				{
+					"ProjectStageTitle": "1st stage",
+					"ProjectStageDesc": "Blabla",
+					"ProjectStageDeadline": "2017-08-10",
+					"@type": "ProjectStage"
+				}
+			],
+			"@type": "Project"
+		}
+	]
 }
