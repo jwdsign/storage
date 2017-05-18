@@ -1,27 +1,3 @@
 {
-	"entry": [
-		{
-			"entrytitle": "SHLAADT Kompakt",
-			"entrybody": {
-				"done": "Beschreibung"
-			},
-			"@type": "entry",
-			"done": true
-		},
-		{
-			"entrytitle": "Briefing ETL-Heimfarth SEO",
-			"entrybody": {
-				"done": "Beschreibung"
-			},
-			"@type": "entry",
-			"done": true
-		},
-		{
-			"entrybody": {
-				"done": "Beschreibung"
-			},
-			"@type": "entry",
-			"done": false
-		}
-	]
+	"entry": []
 }
