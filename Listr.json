@@ -5,20 +5,23 @@
 			"entrybody": {
 				"done": "Beschreibung"
 			},
-			"@type": "entry"
+			"@type": "entry",
+			"done": true
 		},
 		{
 			"entrytitle": "Briefing ETL-Heimfarth SEO",
 			"entrybody": {
 				"done": "Beschreibung"
 			},
-			"@type": "entry"
+			"@type": "entry",
+			"done": true
 		},
 		{
 			"entrybody": {
 				"done": "Beschreibung"
 			},
-			"@type": "entry"
+			"@type": "entry",
+			"done": false
 		}
 	]
 }
