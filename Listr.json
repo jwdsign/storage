@@ -2,16 +2,22 @@
 	"entry": [
 		{
 			"entrytitle": "SHLAADT Kompakt",
-			"entrybody": "Beschreibung",
+			"entrybody": {
+				"done": "Beschreibung"
+			},
 			"@type": "entry"
 		},
 		{
 			"entrytitle": "Briefing ETL-Heimfarth SEO",
-			"entrybody": "Beschreibung",
+			"entrybody": {
+				"done": "Beschreibung"
+			},
 			"@type": "entry"
 		},
 		{
-			"entrybody": "Beschreibung",
+			"entrybody": {
+				"done": "Beschreibung"
+			},
 			"@type": "entry"
 		}
 	]
